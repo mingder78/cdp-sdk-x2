@@ -1,5 +1,5 @@
 {
-  "name": "x2",
+  "name": "cdp-sdk-x2",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
